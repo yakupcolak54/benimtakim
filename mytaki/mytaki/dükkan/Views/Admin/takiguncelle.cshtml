@@ -1,0 +1,51 @@
+﻿@model dükkan.Models.TakiGuncelleModel
+@{
+    Layout = "~/Views/Shared/layout.cshtml";
+    ViewBag.Title = "Home Page";
+}
+<div class="card" style="width: 80%">
+    <div class="card-header">
+        Kategori Günceller
+    </div>
+    <form action="/admin/takiguncelle/@Model.taki.id" method="post">
+
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                <input type="text" name="ad" id="ad" value="@Model.taki.takiAdi" />
+            </li>
+            <li class="list-group-item">
+                <input type="text" name="ozellik" id="ozellik" value="@Model.taki.ozellikler" />
+            </li>
+            <li class="list-group-item">
+                <select name="kategoriId" id="kategoriId">
+                    @foreach (var item in Model.kategoriler)
+                    {
+                        if (item.id == Model.taki.kategoriId)
+                        {
+                            <option value="@item.id" selected>@item.kategoriAdi</option>
+                        }
+                        else
+                        {
+                            <option value="@item.id">@item.kategoriAdi</option>
+
+                        }
+                    }
+
+                </select>
+            </li>
+            <li class="list-group-item">
+                <input type="text" name="fiyat" id="fiyat" value="@Model.taki.fiyat" />
+            </li>
+            <li class="list-group-item">
+                <input type="file" name="file1"/>
+            </li>
+            <li class="list-group-item">
+                <input type="file" name="file2"/>
+            </li>
+            <li class="list-group-item">
+                <input type="submit" name="gonder" />
+            </li>
+        </ul>
+    </form>
+
+</div>

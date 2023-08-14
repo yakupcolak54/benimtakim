@@ -1,0 +1,558 @@
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\dükkan.dll.config
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\dükkan.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\dükkan.pdb
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\csc.exe
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\csc.exe.config
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\csc.rsp
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\csi.exe
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\csi.exe.config
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\csi.rsp
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.AppContext.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Console.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.IO.Compression.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Net.Http.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.ValueTuple.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\vbc.exe
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\vbc.exe.config
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\vbc.rsp
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\VBCSCompiler.exe
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\Antlr3.Runtime.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\EntityFramework.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\EntityFramework.SqlServer.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\Newtonsoft.Json.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Helpers.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Mvc.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Optimization.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Razor.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.WebPages.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.WebPages.Razor.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\WebGrease.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\EntityFramework.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\EntityFramework.SqlServer.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Helpers.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Mvc.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Optimization.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.Razor.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.WebPages.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\System.Web.WebPages.Razor.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\Newtonsoft.Json.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\Antlr3.Runtime.pdb
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\tr\System.Web.Razor.resources.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\obj\Debug\dükkan.csproj.AssemblyReference.cache
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\obj\Debug\dükkan.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\obj\Debug\dükkan.csproj.CopyComplete
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\obj\Debug\dükkan.dll
+C:\Users\bilal\Desktop\dükkan proje\dükkan\dükkan\obj\Debug\dükkan.pdb
+C:\Users\bilal\Desktop\my takı\dükkan\bin\dükkan.dll.config
+C:\Users\bilal\Desktop\my takı\dükkan\bin\dükkan.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\dükkan.pdb
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\csc.exe
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\csc.exe.config
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\csc.rsp
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\csi.exe
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\csi.exe.config
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\csi.rsp
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.AppContext.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Console.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.IO.Compression.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Net.Http.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.ValueTuple.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\vbc.exe
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\vbc.exe.config
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\vbc.rsp
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\VBCSCompiler.exe
+C:\Users\bilal\Desktop\my takı\dükkan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bilal\Desktop\my takı\dükkan\bin\Antlr3.Runtime.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\EntityFramework.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\EntityFramework.SqlServer.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\Newtonsoft.Json.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Helpers.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Mvc.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Optimization.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Razor.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.WebPages.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.WebPages.Razor.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\WebGrease.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\EntityFramework.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\EntityFramework.SqlServer.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Helpers.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Mvc.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Optimization.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.Razor.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.WebPages.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\System.Web.WebPages.Razor.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\Newtonsoft.Json.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\Antlr3.Runtime.pdb
+C:\Users\bilal\Desktop\my takı\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bilal\Desktop\my takı\dükkan\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\tr\System.Web.Razor.resources.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bilal\Desktop\my takı\dükkan\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\bilal\Desktop\my takı\dükkan\obj\Debug\dükkan.csproj.AssemblyReference.cache
+C:\Users\bilal\Desktop\my takı\dükkan\obj\Debug\dükkan.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\my takı\dükkan\obj\Debug\dükkan.csproj.CopyComplete
+C:\Users\bilal\Desktop\my takı\dükkan\obj\Debug\dükkan.dll
+C:\Users\bilal\Desktop\my takı\dükkan\obj\Debug\dükkan.pdb
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\dükkan.dll.config
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\dükkan.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\dükkan.pdb
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\csc.exe
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\csc.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\csc.rsp
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\csi.exe
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\csi.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\csi.rsp
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.AppContext.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Console.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Http.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.ValueTuple.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\vbc.rsp
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\EntityFramework.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Helpers.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Mvc.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Optimization.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Razor.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.WebPages.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\WebGrease.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\EntityFramework.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Helpers.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Mvc.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Optimization.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.Razor.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.WebPages.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.pdb
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.AssemblyReference.cache
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CoreCompileInputs.cache
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CopyComplete
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\obj\Debug\dükkan.dll
+C:\Users\ugur.sengezer\Downloads\mytaki\mytaki\dükkan\obj\Debug\dükkan.pdb
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\dükkan.dll.config
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\dükkan.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\dükkan.pdb
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\csc.exe
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\csc.exe.config
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\csc.rsp
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\csi.exe
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\csi.exe.config
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\csi.rsp
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.AppContext.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Console.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Http.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.ValueTuple.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe.config
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\vbc.rsp
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\EntityFramework.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Helpers.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Mvc.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Optimization.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Razor.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.WebPages.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\WebGrease.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\EntityFramework.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Helpers.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Mvc.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Optimization.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.Razor.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.WebPages.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.pdb
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\tr\System.Web.Razor.resources.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.AssemblyReference.cache
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CopyComplete
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\obj\Debug\dükkan.dll
+C:\Users\bilal\Desktop\mytaki\mytaki\dükkan\obj\Debug\dükkan.pdb
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\dükkan.dll.config
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\dükkan.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\dükkan.pdb
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csc.exe
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csc.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csc.rsp
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csi.exe
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csi.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csi.rsp
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.AppContext.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Console.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Http.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.ValueTuple.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\vbc.rsp
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Helpers.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Mvc.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Optimization.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Razor.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\WebGrease.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Helpers.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Mvc.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Optimization.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Razor.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.pdb
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Razor.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.AssemblyReference.cache
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CoreCompileInputs.cache
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CopyComplete
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.pdb
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\ImageResizer.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\ImageResizer.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.Native-Q16-arm64.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.Native-Q16-x64.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.Native-Q16-x86.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET-Q16-AnyCPU.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET.Core.dll
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET-Q16-AnyCPU.xml
+C:\Users\ugur.sengezer\Downloads\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET.Core.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.Native-Q16-arm64.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.Native-Q16-x64.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.Native-Q16-x86.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\dükkan.dll.config
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\dükkan.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\dükkan.pdb
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csc.exe
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csc.exe.config
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csc.rsp
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csi.exe
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csi.exe.config
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\csi.rsp
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.AppContext.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Console.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Http.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.ValueTuple.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\vbc.exe.config
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\vbc.rsp
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\ImageResizer.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET-Q16-AnyCPU.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET.Core.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Helpers.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Mvc.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Optimization.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Razor.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\WebGrease.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\EntityFramework.SqlServer.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\ImageResizer.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET-Q16-AnyCPU.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Magick.NET.Core.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Helpers.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Mvc.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Optimization.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.Razor.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\System.Web.WebPages.Razor.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Newtonsoft.Json.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Antlr3.Runtime.pdb
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.Razor.resources.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.AssemblyReference.cache
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CoreCompileInputs.cache
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.csproj.CopyComplete
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.dll
+C:\Users\bilal\Desktop\mytaki (1)\mytaki\mytaki\dükkan\obj\Debug\dükkan.pdb

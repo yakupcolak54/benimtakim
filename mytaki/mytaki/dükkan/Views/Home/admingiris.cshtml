@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/layout.cshtml";
+    ViewBag.Title = "Home Page";
+}
+
+    <div class="justify-content-center d-flex">
+        <div style="margin-top:10%;margin-bottom:10.4%;width:20rem;">
+            <form action="/home/admingiris" method="post">
+                <div class="row">
+                    <div class="mb-3">
+                        <label for="exampleInputEmail1" class="form-label">Kullanıcı Adı:</label>
+                        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="userName">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="mb-3">
+                        <label for="exampleInputPassword1" class="form-label">Şifre</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1" name="password">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="mb-3 form-check">
+                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                        <label class="form-check-label" for="exampleCheck1">Doğrula</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Giriş Yap</button>
+                </div>
+            </form>
+            
+        </div>
+    </div>
+

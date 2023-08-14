@@ -1,0 +1,92 @@
+﻿@model dükkan.Models.AnaSayfaModel
+@{
+    Layout = "~/Views/Shared/layout.cshtml";
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+
+
+
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <div style="margin-left:10px;">
+            <form action="/home/anasayfa" method="post">
+                <b style="color:whitesmoke;margin-left:5rem;">Filtreler</b>
+                <hr style="color:white;" />
+                <br />
+                <input id="AZ" type="radio" name="check" value="0" />
+                <label for="AZ">A'dan Z'ye sırala</label>
+                <br />
+                <input id="ZA" type="radio" name="check" value="1" />
+                <label for="ZA">Z'den A'ya sırala</label>
+                <br />
+                <input id="enyuksek" type="radio" name="check" value="2" />
+                <label for="enyuksek">En yüksek fiyattan sırala</label>
+                <br />
+                <input id="endusuk" type="radio" name="check" value="3" />
+                <label for="endusuk">En düşük fiyattan sırala</label>
+                <br />
+                <label for="option">Kategori seç : </label>
+                <select id="option" name="kategori">
+                    <option value="-1">Hepsi</option>
+                    @foreach (var item in Model.kategorilar)
+                    {
+                        <option value="@item.id">@item.kategoriAdi</option>
+                    }
+                </select>
+                <br />
+                <input type="submit" style="margin-left: 4rem; margin-top: 2rem;" name="name" value="Uygula" />
+            </form>
+        </div>
+    </div>
+    <span id="slideButton" style="font-size: 22px; cursor: pointer; box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; " onclick="openNav()">&#9776;   Filtrele</span>
+
+    <!-- Section -->
+
+    <section>
+        <div class="container-fluid container-lg">
+            <div class="container-fluid bg-trasparent my-4 p-3" style="position: relative;">
+                <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+                    @foreach (var item in Model.takilar)
+                     {
+                        <div style="" class="col">
+                            <div class="card h-100 shadow-sm">
+                                <img class="resimler" src="@item.file1" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <div class="clearfix mb-3">
+                                        <span class="float-start badge rounded-pill bg-success">@item.takiAdi</span>
+
+                                        <span class="float-end">
+                                            <p>@item.fiyat ₺</p>
+                                        </span>
+
+                                    </div>
+                                    <div class="w-100 mb-3">
+                                        <h5 class="card-title"><b>@item.ozellikler</b> </h5>
+
+                                    </div>
+                                    @if (User.Identity.IsAuthenticated)
+                                    {
+                                        <div class="d-grid gap-2  mb-2">
+                                            <a href="/admin/takiSil/@item.id" class="btn btn-danger">Sil</a>
+                                            <a href="/admin/takiguncelle/@item.id" class="btn btn-success">Güncelle</a>
+                                        </div>
+                                    }
+                                    
+
+                                    <div class="d-grid gap-2 ">
+                                        <a href="/home/incele/@item.id" class="btn btn-warning">İNCELE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                     }
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section -->
